@@ -12,3 +12,5 @@ print("Minimum = -1 \nAverage = -1")
 else:
  print ("The number of inputs are " + str(n) + ".") print ("The minimum number is " + str(minimum)+ ".")
 print ("The summation of all numbers is " + str(Sum) + ".") print ("Average is " + str(Sum / n))
+
+'# it looks like I learned how to use git today',
